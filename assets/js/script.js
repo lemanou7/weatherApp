@@ -1,5 +1,5 @@
 // Set global variables, and API Key
-var owmAPI = "788d5638d7c8e354a162d6c9747d1bdf";
+var owmAPI = "7ad796d379e6d76491dc1e379509e0b6";
 var currentCity = "";
 var lastCity = "";
 
